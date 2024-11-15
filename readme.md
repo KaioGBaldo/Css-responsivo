@@ -1,5 +1,5 @@
 # __**Resume (Resumo)**__
-| 
+| Um teste de aprendizado sobre o CSS responsivo para outras mídias além do Computador
 
 ## __**Technologies Used and Important Links (Tecnologias usadas e links importantes)**__
 
